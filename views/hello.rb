@@ -1,8 +1,0 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title> </title>
-    </head>
-    <body>
-        <h1>Buster's Best Bowling Alley</h1>
-        </body>
